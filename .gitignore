@@ -1,1 +1,5 @@
+file.txt
 file3.txt
+# /fo1/static
+static/
+*.md
